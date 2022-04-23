@@ -12,4 +12,4 @@
     <li>Contagem de dias restantes para data em questão;</li>
     <li>Toda postagem possui a data que foi postada e a data prevista.</li>
 </ul>
-    <div><img alt="Readme" title="Readme" src="./img/post.png" width="40%"/></div>
+    <div><img alt="Readme" title="Readme" src="./img/post.png" width="70%"/></div>
