@@ -25,7 +25,7 @@ function dateDifference(currentDate: Moment, commemorativeDate: Moment) {
     );
     var dateDifference = moment.duration(msDateDifference).asDays();
 
-    return Math.round(dateDifference);
+    return Math.floor(dateDifference);
 }
 
 function tweetar(tweet: string) {
